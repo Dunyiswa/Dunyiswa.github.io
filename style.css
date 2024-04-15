@@ -245,4 +245,12 @@
     box-shadow: 0 0 25px rgb(159, 249, 169);
     color: rgb(159, 249, 169);
 }
- 
+.footer .email{
+    text-align: center;
+    padding-bottom: 25px;
+    color: white;
+}
+
+.footer .email a{
+    color: rgb(2, 78, 52);
+}
